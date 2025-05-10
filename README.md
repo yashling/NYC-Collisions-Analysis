@@ -36,7 +36,7 @@ This project analyzes motor vehicle collisions in New York City using historical
 - Jupyter Notebook
 - `pandas`, `matplotlib`, `seaborn` – for analysis and plots
 - `statsmodels` – for time series decomposition
-- `folium` – for mapping (optional if added in notebook)
+- `folium` – for mapping 
 
 ---
 
