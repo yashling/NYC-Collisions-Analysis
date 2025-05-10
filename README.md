@@ -2,7 +2,7 @@
 
 This project analyzes motor vehicle collisions in New York City using historical crash data. The analysis uncovers trends, seasonal patterns, and anomalies, helping identify how collisions evolved over time, especially in light of events like the COVID-19 pandemic.
 
-![Time Series Decomposition](efa154b4-32ea-4823-a27e-85064f41b64e.png)
+![Time Series Decomposition](53e6b4e7-6d7b-45c6-8bb4-e36e25d90eb8.png)
 
 ---
 
